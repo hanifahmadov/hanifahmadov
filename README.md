@@ -12,12 +12,13 @@ I am a junior software engineer with recent graduation from a Full Stack Softwar
 - ⚡ My portfolio: [hanifahmadov.com](https://hanifahmadov.com/)
 
 ### Web & Mobile Development
-HTML5, CSS3, JavaScript, jQuery, Prototype
-TypeScript, React.js, Next.js, Node.js, Express.JS
-Java, IntelliJ, VSC IDE, 
-Tester, Selenium, Cucumber, TestNG & JUnit, WebDriver, Cypress
-AWS, AWS Serverless & API Gateways
-GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+* HTML5, CSS3, Bootstrap, jQuery, Prototype
+* JavaScript, TypeScript, Java, (Python** inter)
+* React.js, Recoil & Redux State Management, Angular.js
+*  IDE IntelliJ, IDE VSCode, Node.js, Express.JS
+* Tester, Selenium, Cucumber, TestNG & JUnit, WebDriver, Cypress
+* AWS, AWS Serverless & API Gateways
+* GraphQL, MongoDB & Mongoose Schemas,  MySQL, PostgreSQL, MSSQL
 
 
 
