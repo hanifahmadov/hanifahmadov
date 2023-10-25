@@ -7,7 +7,7 @@ I am a junior software engineer with recent graduation from a Full Stack Softwar
 - 🔭 I am currently working on personal projects every day to keep my skills sharp, which makes me even more excited to explore and go deeper.
 - 🌱 I am currently learning about Continuous Integration and Continuous Deployment (CI/CD) and AWS Serverless to expand my skill set and explore new avenues for technology-driven solutions.
 - 👯 I’m looking to collaborate on open-source projects related to web development and contribute to the developer community.
-- 🤔 I’m looking for help with refining my understanding of cloud-native technologies, particularly Kubernetes and Docker, as I aim to incorporate them into our infrastructure.
+- 🤔 I'm aiming to improve my understanding of cloud-native technologies, especially Kubernetes and Docker infrastructures.
 - 💬 Ask me about software design patterns, performance optimization, or best practices in web development.
 - 😄 Pronouns: He/Him
 - 📫 You can take a quick look at my website below for more detailed information about me.
