@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a junior software engineer with recent graduation from a Full Stack Software Development program at GA. With a passion for problem-solving and a commitment to writing clean and efficient code, I am seeking opportunities to work on complex projects in my new career to expand my coding horizons, learn new technologies, and broaden my skill set.
 
@@ -10,4 +10,14 @@ I am a junior software engineer with recent graduation from a Full Stack Softwar
 - 😄 Pronouns: He/Him
 - 📫 You can reach me by email: h.ehmedov@gmail.com
 - ⚡ My portfolio: [hanifahmadov.com](https://hanifahmadov.com/)
+
+### Web & Mobile Development
+HTML5, CSS3, JavaScript, jQuery, Prototype
+TypeScript, React.js, Next.js, Node.js, Express.JS
+Java, IntelliJ, VSC IDE, 
+Tester, Selenium, Cucumber, TestNG & JUnit, WebDriver, Cypress
+AWS, AWS Serverless & API Gateways
+GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+
+
 
