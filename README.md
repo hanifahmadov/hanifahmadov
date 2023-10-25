@@ -21,7 +21,7 @@ I am a junior software engineer with recent graduation from a Full Stack Softwar
 * JavaScript, TypeScript, Java, (Python*)
 * React.js, Recoil & Redux State Management, Angular.js
 *  IDE IntelliJ, IDE VSCode, Node.js, Express.JS
-* Tester, Selenium, Cucumber, TestNG & JUnit, WebDriver, Cypress
+* Tester, Maven, Selenium WebDriver, Cucumber, TestNG & JUnit, Cypress
 * AWS, AWS Serverless & API Gateways
 * GraphQL, MongoDB & Mongoose Schemas,  MySQL, PostgreSQL, MSSQL
 
