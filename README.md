@@ -10,7 +10,7 @@ I am a junior software engineer with recent graduation from a Full Stack Softwar
 - 🤔 I'm aiming to improve my understanding of cloud-native technologies, especially Kubernetes and Docker infrastructures.
 - 💬 Ask me about software design patterns, performance optimization, or best practices in web development.
 - 😄 Pronouns: He/Him
-- 📫 Feel free to take a quick look at my website below for more detailed information about me.
+- 📫 Feel free to take a quick look at my website mentioned below for more detailed information about me.
 - ⚡ My portfolio: *[hanifahmadov.com](https://hanifahmadov.com/)*
   
 <br/>
