@@ -18,7 +18,7 @@ I am a junior software engineer with recent graduation from a Full Stack Softwar
 
 #### Web & Mobile Development
 * HTML5, CSS3, Bootstrap, jQuery, Prototype
-* JavaScript, TypeScript, Java, (Python** inter)
+* JavaScript, TypeScript, Java, (Python*)
 * React.js, Recoil & Redux State Management, Angular.js
 *  IDE IntelliJ, IDE VSCode, Node.js, Express.JS
 * Tester, Selenium, Cucumber, TestNG & JUnit, WebDriver, Cypress
