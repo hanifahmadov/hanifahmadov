@@ -11,7 +11,7 @@ I am a junior software engineer with recent graduation from a Full Stack Softwar
 - 💬 Ask me about software design patterns, performance optimization, or best practices in web development.
 - 😄 Pronouns: He/Him
 - 📫 Feel free to take a quick look at my website mentioned below for more detailed information about me.
-- ⚡ My portfolio: *[hanifahmadov.com](https://hanifahmadov.com/)*
+- ⚡ My portfolio: *[hanifahmadov.site](https://www.hanifahmadov.site/)*
   
 <br/>
 
